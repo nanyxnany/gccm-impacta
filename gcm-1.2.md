@@ -1,7 +1,7 @@
 # gcm-impacta
 Atividades gestão de configuração e mudanças Impacta FIT
 
-#Versões IOS
+# Versões IOS
 
 <br>iPhone OS 1
 <br>iPhone OS 2
@@ -15,7 +15,7 @@ Atividades gestão de configuração e mudanças Impacta FIT
 <br>iOS 10
 
 
-<br><br>#Versões Android
+# Versões Android
 
 <br>Android 1.6 - Donut
 <br>Android 2.1 - Eclair 
@@ -29,7 +29,7 @@ Atividades gestão de configuração e mudanças Impacta FIT
 <br>Android 6.0 - Marshmallow
 <br>Android 7.0 - Nougat
 
-<br><br>#Versões Office - MS
+# Versões Office - MS
 
 <br>Office 4.x
 <br>Office 95
@@ -42,10 +42,10 @@ Atividades gestão de configuração e mudanças Impacta FIT
 <br>Office 2013
 <br>Office 2016
 
-Grupo 2: 
-Elaine Pereira da Silva Alves 
-Janaina Pereira dos Santos 
-Sara Pastor Hidaldo
-Luciana Eloi de Andrade
-Marcelo Augusto de Moraes 
-Sergio Eduardo Di Santoro Bruzetti
+# Grupo 2: 
+<br>Elaine Pereira da Silva Alves 
+<br>Janaina Pereira dos Santos 
+<br>Sara Pastor Hidaldo
+<br>Luciana Eloi de Andrade
+<br>Marcelo Augusto de Moraes 
+<br>Sergio Eduardo Di Santoro Bruzetti
