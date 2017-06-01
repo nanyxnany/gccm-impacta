@@ -41,3 +41,11 @@ Atividades gestão de configuração e mudanças Impacta FIT
 <br>Office 2010
 <br>Office 2013
 <br>Office 2016
+
+Grupo 2: 
+Elaine Pereira da Silva Alves 
+Janaina Pereira dos Santos 
+Sara Pastor Hidaldo
+Luciana Eloi de Andrade
+Marcelo Augusto de Moraes 
+Sergio Eduardo Di Santoro Bruzetti
